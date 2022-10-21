@@ -1,7 +1,7 @@
 # Foot3D
 Dataset of scanned 3D feet released as part of paper ['FIND: An Unsupervised Implicit 3D Model of Articulated Human Feet'](https://github.com/OllieBoyne/FIND).
 
-![](/Users/ollie/Documents/repos/phd-projects/Foot3D/splash.gif)
+![](splash.gif)
 
 ## Usage
 
