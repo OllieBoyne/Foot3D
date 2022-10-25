@@ -38,10 +38,6 @@ The dataset is described in the annotations file `.json`. Structured as shown be
 
 To download the latest dataset, please fill in this [Google form](https://forms.gle/yuikza5e7sJTbUjK6), and you will be emailed a download link.
 
-## Notes
-
-- **Pose descriptions** - We provide some information about the nature of the pose descriptions in ... 
-
 ## Acknowledgements
 
 If you make use of this dataset, please cite the following paper:
@@ -54,3 +50,9 @@ If you make use of this dataset, please cite the following paper:
             booktitle={British Machine Vision Conference (BMVC)},
             year={2022}
 ```
+
+## Notes
+
+- **Pose descriptions** - We provide some information about the nature of the pose descriptions in the supplementary of [our paper](https://ollieboyne.github.io/FIND/)
+- **Registration** - Our models are only loosely aligned, following the process described in [our paper](https://ollieboyne.github.io/FIND/)
+
