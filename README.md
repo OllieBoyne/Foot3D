@@ -36,7 +36,7 @@ The dataset is described in the annotations file `.json`. Structured as shown be
 
 ## Download instructions
 
-To download the latest dataset, please fill in this Google form (coming soon), and you will be emailed a download link.
+To download the latest dataset, please fill in this [Google form](https://forms.gle/7eZh67UXMZYcM11M7), and you will be emailed a download link.
 
 ## Acknowledgements
 
