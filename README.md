@@ -49,6 +49,7 @@ If you make use of this dataset, please cite the following paper:
             author={Boyne, Oliver and Charles, James and Cipolla, Roberto},
             booktitle={British Machine Vision Conference (BMVC)},
             year={2022}
+}
 ```
 
 ## Notes
