@@ -13,10 +13,10 @@ The dataset contains a folder for each multiview scan, with the following items:
 | `normals_colmap`                    | Folder, `.png` | Surface normals reconstructed via [COLMAP](https://colmap.github.io)                                     |
 | `mesh.obj`                          | `.obj` | Ground truth 3D scan                                                                                     |
 | `colmap_mesh.obj`                   | `.obj` | 3D scan from [COLMAP](https://colmap.github.io)                                                          |
-| [`keypoints.json`](#keypoints.json) | `.json` | 2D keypoints as predicted in [FOUND](http://ollieboyne.github.io/FOUND) |
-| [`colmap.json`](#colmap.json)       | `.json` | Camera calibration from [COLMAP](https://colmap.github.io)                                               |
+| [`keypoints.json`](#keypoints) | `.json` | 2D keypoints as predicted in [FOUND](http://ollieboyne.github.io/FOUND) |
+| [`colmap.json`](#colmap)       | `.json` | Camera calibration from [COLMAP](https://colmap.github.io)                                               |
 
-## keypoints.json
+## Keypoints
 
 These are predicted keypoints from a network trained on synthetic data, so their accuracy cannot be guaranteed.
 
@@ -35,7 +35,7 @@ These are predicted keypoints from a network trained on synthetic data, so their
 }
 ```
 
-## colmap.json
+## COLMAP
 
 The data here is taken from a [COLMAP](https://colmap.github.io) reconstruction, which has been scaled to match our ground truth meshes.
 
