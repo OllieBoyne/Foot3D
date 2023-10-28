@@ -10,7 +10,7 @@
 
 High resolution foot scans for foot reconstruction tasks. We provide two datasets here:
 
-- `Meshes`: High resolution, scanned 3D foot models [how many], as used in ['FIND: An Unsupervised Implicit 3D Model of Articulated Human Feet'](https://ollieboyne.github.io/FIND).
+- `Meshes`: 34 high resolution, scanned 3D foot models, as used in ['FIND: An Unsupervised Implicit 3D Model of Articulated Human Feet'](https://ollieboyne.github.io/FIND).
 - `Multiview`: Scanned feet combined with calibrated camera images for reconstruction evaluation, as used in [FOUND: Foot Optimisation with Uncertain Normals for Surface Deformation using Synthetic Data](http://ollieboyne.github.io/FOUND)
 
 ## Download instructions
