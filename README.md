@@ -25,12 +25,25 @@ We acknowledge the collaboration and financial support of [Trya Srl](https://sna
 
 If you make use of our Foot3D dataset, please cite our work:
 
+For `Meshes`:
+
 ```
 @inproceedings{boyne2022find,
             title={FIND: An Unsupervised Implicit 3D Model of Articulated Human Feet},
             author={Boyne, Oliver and Charles, James and Cipolla, Roberto},
             booktitle={British Machine Vision Conference (BMVC)},
             year={2022}
+}
+```
+
+For `Multiview`:
+
+```
+@inproceedings{boyne2024found,
+            title={FOUND: {F}oot {O}ptimisation with {U}ncertain {N}ormals for Surface {D}eformation using Synthetic Data},
+            author={Boyne, Oliver and Bae, Gwangbin and Charles, James and Cipolla, Roberto},
+            booktitle={Winter Conference on Applications of Computer Vision (WACV)},
+            year={2024}
 }
 ```
 
